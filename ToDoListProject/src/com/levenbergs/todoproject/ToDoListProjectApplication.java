@@ -1,8 +1,8 @@
 package com.levenbergs.todoproject;
 
-import android.app.Application;
-
 import com.parse.Parse;
+
+import android.app.Application;
 
 /*
  * This is the entry class for the application.  This is run first.
@@ -17,3 +17,4 @@ public class ToDoListProjectApplication extends Application {
 				"UAyVVO0U6RVSMcmGyJTFJZd45dPkwzSQQKAMnSZP");
 	}
 }
+

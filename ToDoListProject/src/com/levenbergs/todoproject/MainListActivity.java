@@ -8,9 +8,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.parse.ParseAnalytics;
-import com.parse.ParseUser;
-
 public class MainListActivity extends ListActivity {
 
 	public static final String TAG = MainListActivity.class.getSimpleName();
